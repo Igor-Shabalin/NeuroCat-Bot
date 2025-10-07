@@ -1,0 +1,12 @@
+# --- Основные зависимости ---
+python-telegram-bot==21.6
+aiohttp==3.12.15
+beautifulsoup4==4.14.0
+ddgs==9.6.0
+openai==1.109.1
+anthropic==0.66.0
+aiosqlite==0.20.0
+
+# --- Вспомогательные ---
+requests==2.32.5
+python-dotenv==1.0.1
